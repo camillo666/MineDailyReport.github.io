@@ -1,1 +1,1 @@
-# MineDailyReport.github.io
+# jobsreport.gihub.io
